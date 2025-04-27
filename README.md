@@ -18,3 +18,6 @@ A simple command-line To-Do List application written in Swift. This application 
 
 - Swift 5.0 or later
 - macOS (for running the Swift command-line application)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/To-Do-List-App/blob/main/LICENSE) file for details.
